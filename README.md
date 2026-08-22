@@ -1,2 +1,4 @@
-# robfeb86.github.io
-Public website for Rob's Automation Services — privacy and terms for missed-call SMS (Twilio A2P).
+# Rob's Automation Services
+
+- Privacy: https://robfeb86.github.io/privacy/
+- Terms: https://robfeb86.github.io/terms/
